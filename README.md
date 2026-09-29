@@ -27,11 +27,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/barba4ian/2026-spring-sprint/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/barba4ian/2026-spring-sprint/tree/main/0207-course-schedule/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/barba4ian/2026-spring-sprint/tree/main/0200-number-of-islands/) | Medium |
 | [0994-rotting-oranges](https://github.com/barba4ian/2026-spring-sprint/tree/main/0994-rotting-oranges/) | Medium |
+| [0207-course-schedule](https://github.com/barba4ian/2026-spring-sprint/tree/main/0207-course-schedule/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,4 +55,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/barba4ian/2026-spring-sprint/tree/main/0022-generate-parentheses/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/barba4ian/2026-spring-sprint/tree/main/0207-course-schedule/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/barba4ian/2026-spring-sprint/tree/main/0207-course-schedule/) | Medium |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/barba4ian/2026-spring-sprint/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
