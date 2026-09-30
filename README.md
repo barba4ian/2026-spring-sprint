@@ -9,6 +9,7 @@
 | [0200-number-of-islands](https://github.com/barba4ian/2026-spring-sprint/tree/main/0200-number-of-islands/) | Medium |
 | [0994-rotting-oranges](https://github.com/barba4ian/2026-spring-sprint/tree/main/0994-rotting-oranges/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/barba4ian/2026-spring-sprint/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/barba4ian/2026-spring-sprint/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,4 +68,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/barba4ian/2026-spring-sprint/tree/main/0207-course-schedule/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/barba4ian/2026-spring-sprint/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/barba4ian/2026-spring-sprint/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 <!---LeetCode Topics End-->
