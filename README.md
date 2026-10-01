@@ -10,6 +10,7 @@
 | [0994-rotting-oranges](https://github.com/barba4ian/2026-spring-sprint/tree/main/0994-rotting-oranges/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/barba4ian/2026-spring-sprint/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/barba4ian/2026-spring-sprint/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
+| [0152-maximum-product-subarray](https://github.com/barba4ian/2026-spring-sprint/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -24,6 +25,7 @@
 | [0198-house-robber](https://github.com/barba4ian/2026-spring-sprint/tree/main/0198-house-robber/) | Medium |
 | [0022-generate-parentheses](https://github.com/barba4ian/2026-spring-sprint/tree/main/0022-generate-parentheses/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/barba4ian/2026-spring-sprint/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/barba4ian/2026-spring-sprint/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
