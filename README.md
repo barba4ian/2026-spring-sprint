@@ -12,6 +12,7 @@
 | [1944-number-of-visible-people-in-a-queue](https://github.com/barba4ian/2026-spring-sprint/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/barba4ian/2026-spring-sprint/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/barba4ian/2026-spring-sprint/tree/main/0238-product-of-array-except-self/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/barba4ian/2026-spring-sprint/tree/main/1386-cinema-seat-allocation/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,4 +84,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/barba4ian/2026-spring-sprint/tree/main/0238-product-of-array-except-self/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1386-cinema-seat-allocation](https://github.com/barba4ian/2026-spring-sprint/tree/main/1386-cinema-seat-allocation/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1386-cinema-seat-allocation](https://github.com/barba4ian/2026-spring-sprint/tree/main/1386-cinema-seat-allocation/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1386-cinema-seat-allocation](https://github.com/barba4ian/2026-spring-sprint/tree/main/1386-cinema-seat-allocation/) | Medium |
 <!---LeetCode Topics End-->
