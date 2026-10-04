@@ -13,6 +13,7 @@
 | [0152-maximum-product-subarray](https://github.com/barba4ian/2026-spring-sprint/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/barba4ian/2026-spring-sprint/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/barba4ian/2026-spring-sprint/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/barba4ian/2026-spring-sprint/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,10 +85,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/barba4ian/2026-spring-sprint/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/barba4ian/2026-spring-sprint/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1386-cinema-seat-allocation](https://github.com/barba4ian/2026-spring-sprint/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/barba4ian/2026-spring-sprint/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
