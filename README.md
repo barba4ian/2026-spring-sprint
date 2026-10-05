@@ -29,6 +29,7 @@
 | [0022-generate-parentheses](https://github.com/barba4ian/2026-spring-sprint/tree/main/0022-generate-parentheses/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/barba4ian/2026-spring-sprint/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/barba4ian/2026-spring-sprint/tree/main/0152-maximum-product-subarray/) | Medium |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/barba4ian/2026-spring-sprint/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,8 +96,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1386-cinema-seat-allocation](https://github.com/barba4ian/2026-spring-sprint/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/barba4ian/2026-spring-sprint/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1386-cinema-seat-allocation](https://github.com/barba4ian/2026-spring-sprint/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/barba4ian/2026-spring-sprint/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
 <!---LeetCode Topics End-->
