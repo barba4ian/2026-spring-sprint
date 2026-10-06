@@ -102,4 +102,24 @@
 | ------- | ------- |
 | [1386-cinema-seat-allocation](https://github.com/barba4ian/2026-spring-sprint/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/barba4ian/2026-spring-sprint/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/barba4ian/2026-spring-sprint/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/barba4ian/2026-spring-sprint/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/barba4ian/2026-spring-sprint/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/barba4ian/2026-spring-sprint/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/barba4ian/2026-spring-sprint/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
