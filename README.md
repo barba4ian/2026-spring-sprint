@@ -35,6 +35,7 @@
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/barba4ian/2026-spring-sprint/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/barba4ian/2026-spring-sprint/tree/main/0207-course-schedule/) | Medium |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/barba4ian/2026-spring-sprint/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,4 +128,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/barba4ian/2026-spring-sprint/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/barba4ian/2026-spring-sprint/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/barba4ian/2026-spring-sprint/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
