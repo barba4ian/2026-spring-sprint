@@ -57,6 +57,7 @@
 | [0022-generate-parentheses](https://github.com/barba4ian/2026-spring-sprint/tree/main/0022-generate-parentheses/) | Medium |
 | [0020-valid-parentheses](https://github.com/barba4ian/2026-spring-sprint/tree/main/0020-valid-parentheses/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/barba4ian/2026-spring-sprint/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/barba4ian/2026-spring-sprint/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +85,7 @@
 | [1944-number-of-visible-people-in-a-queue](https://github.com/barba4ian/2026-spring-sprint/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [0020-valid-parentheses](https://github.com/barba4ian/2026-spring-sprint/tree/main/0020-valid-parentheses/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/barba4ian/2026-spring-sprint/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/barba4ian/2026-spring-sprint/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
