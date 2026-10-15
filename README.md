@@ -14,10 +14,12 @@
 | [0238-product-of-array-except-self](https://github.com/barba4ian/2026-spring-sprint/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/barba4ian/2026-spring-sprint/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/barba4ian/2026-spring-sprint/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0049-group-anagrams](https://github.com/barba4ian/2026-spring-sprint/tree/main/0049-group-anagrams/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/barba4ian/2026-spring-sprint/tree/main/0056-merge-intervals/) | Medium |
+| [0049-group-anagrams](https://github.com/barba4ian/2026-spring-sprint/tree/main/0049-group-anagrams/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,6 +60,7 @@
 | [0020-valid-parentheses](https://github.com/barba4ian/2026-spring-sprint/tree/main/0020-valid-parentheses/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/barba4ian/2026-spring-sprint/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/barba4ian/2026-spring-sprint/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
+| [0049-group-anagrams](https://github.com/barba4ian/2026-spring-sprint/tree/main/0049-group-anagrams/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +103,7 @@
 | ------- | ------- |
 | [1386-cinema-seat-allocation](https://github.com/barba4ian/2026-spring-sprint/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/barba4ian/2026-spring-sprint/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0049-group-anagrams](https://github.com/barba4ian/2026-spring-sprint/tree/main/0049-group-anagrams/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
