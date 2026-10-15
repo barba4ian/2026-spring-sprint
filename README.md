@@ -15,6 +15,7 @@
 | [1386-cinema-seat-allocation](https://github.com/barba4ian/2026-spring-sprint/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/barba4ian/2026-spring-sprint/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0049-group-anagrams](https://github.com/barba4ian/2026-spring-sprint/tree/main/0049-group-anagrams/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/barba4ian/2026-spring-sprint/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +105,7 @@
 | [1386-cinema-seat-allocation](https://github.com/barba4ian/2026-spring-sprint/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/barba4ian/2026-spring-sprint/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0049-group-anagrams](https://github.com/barba4ian/2026-spring-sprint/tree/main/0049-group-anagrams/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/barba4ian/2026-spring-sprint/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,4 +144,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/barba4ian/2026-spring-sprint/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/barba4ian/2026-spring-sprint/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/barba4ian/2026-spring-sprint/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
