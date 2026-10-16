@@ -16,6 +16,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/barba4ian/2026-spring-sprint/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0049-group-anagrams](https://github.com/barba4ian/2026-spring-sprint/tree/main/0049-group-anagrams/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/barba4ian/2026-spring-sprint/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/barba4ian/2026-spring-sprint/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +125,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/barba4ian/2026-spring-sprint/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0004-median-of-two-sorted-arrays](https://github.com/barba4ian/2026-spring-sprint/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,4 +154,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/barba4ian/2026-spring-sprint/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/barba4ian/2026-spring-sprint/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->
