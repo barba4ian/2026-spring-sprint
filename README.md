@@ -17,6 +17,7 @@
 | [0049-group-anagrams](https://github.com/barba4ian/2026-spring-sprint/tree/main/0049-group-anagrams/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/barba4ian/2026-spring-sprint/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/barba4ian/2026-spring-sprint/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [1004-max-consecutive-ones-iii](https://github.com/barba4ian/2026-spring-sprint/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +101,7 @@
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/barba4ian/2026-spring-sprint/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/barba4ian/2026-spring-sprint/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/barba4ian/2026-spring-sprint/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,4 +160,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/barba4ian/2026-spring-sprint/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [1004-max-consecutive-ones-iii](https://github.com/barba4ian/2026-spring-sprint/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/barba4ian/2026-spring-sprint/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 <!---LeetCode Topics End-->
