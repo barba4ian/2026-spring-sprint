@@ -19,6 +19,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/barba4ian/2026-spring-sprint/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/barba4ian/2026-spring-sprint/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/barba4ian/2026-spring-sprint/tree/main/0042-trapping-rain-water/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/barba4ian/2026-spring-sprint/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,6 +38,7 @@
 | [0152-maximum-product-subarray](https://github.com/barba4ian/2026-spring-sprint/tree/main/0152-maximum-product-subarray/) | Medium |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/barba4ian/2026-spring-sprint/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
 | [0042-trapping-rain-water](https://github.com/barba4ian/2026-spring-sprint/tree/main/0042-trapping-rain-water/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/barba4ian/2026-spring-sprint/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +55,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/barba4ian/2026-spring-sprint/tree/main/0200-number-of-islands/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/barba4ian/2026-spring-sprint/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,6 +135,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/barba4ian/2026-spring-sprint/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0004-median-of-two-sorted-arrays](https://github.com/barba4ian/2026-spring-sprint/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/barba4ian/2026-spring-sprint/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,10 +152,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/barba4ian/2026-spring-sprint/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/barba4ian/2026-spring-sprint/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/barba4ian/2026-spring-sprint/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/barba4ian/2026-spring-sprint/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,4 +179,24 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/barba4ian/2026-spring-sprint/tree/main/0042-trapping-rain-water/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/barba4ian/2026-spring-sprint/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/barba4ian/2026-spring-sprint/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/barba4ian/2026-spring-sprint/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/barba4ian/2026-spring-sprint/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/barba4ian/2026-spring-sprint/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
