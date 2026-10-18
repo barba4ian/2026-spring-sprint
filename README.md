@@ -18,6 +18,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/barba4ian/2026-spring-sprint/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/barba4ian/2026-spring-sprint/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/barba4ian/2026-spring-sprint/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [0042-trapping-rain-water](https://github.com/barba4ian/2026-spring-sprint/tree/main/0042-trapping-rain-water/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +36,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/barba4ian/2026-spring-sprint/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/barba4ian/2026-spring-sprint/tree/main/0152-maximum-product-subarray/) | Medium |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/barba4ian/2026-spring-sprint/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
+| [0042-trapping-rain-water](https://github.com/barba4ian/2026-spring-sprint/tree/main/0042-trapping-rain-water/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,10 +94,12 @@
 | [0020-valid-parentheses](https://github.com/barba4ian/2026-spring-sprint/tree/main/0020-valid-parentheses/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/barba4ian/2026-spring-sprint/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/barba4ian/2026-spring-sprint/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
+| [0042-trapping-rain-water](https://github.com/barba4ian/2026-spring-sprint/tree/main/0042-trapping-rain-water/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/barba4ian/2026-spring-sprint/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
+| [0042-trapping-rain-water](https://github.com/barba4ian/2026-spring-sprint/tree/main/0042-trapping-rain-water/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -165,4 +169,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/barba4ian/2026-spring-sprint/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/barba4ian/2026-spring-sprint/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
