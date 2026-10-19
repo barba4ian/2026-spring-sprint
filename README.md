@@ -20,6 +20,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/barba4ian/2026-spring-sprint/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/barba4ian/2026-spring-sprint/tree/main/0042-trapping-rain-water/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/barba4ian/2026-spring-sprint/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [0085-maximal-rectangle](https://github.com/barba4ian/2026-spring-sprint/tree/main/0085-maximal-rectangle/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,6 +40,7 @@
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/barba4ian/2026-spring-sprint/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
 | [0042-trapping-rain-water](https://github.com/barba4ian/2026-spring-sprint/tree/main/0042-trapping-rain-water/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/barba4ian/2026-spring-sprint/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [0085-maximal-rectangle](https://github.com/barba4ian/2026-spring-sprint/tree/main/0085-maximal-rectangle/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +63,7 @@
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/barba4ian/2026-spring-sprint/tree/main/0200-number-of-islands/) | Medium |
 | [0994-rotting-oranges](https://github.com/barba4ian/2026-spring-sprint/tree/main/0994-rotting-oranges/) | Medium |
+| [0085-maximal-rectangle](https://github.com/barba4ian/2026-spring-sprint/tree/main/0085-maximal-rectangle/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,11 +101,13 @@
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/barba4ian/2026-spring-sprint/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/barba4ian/2026-spring-sprint/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/barba4ian/2026-spring-sprint/tree/main/0042-trapping-rain-water/) | Hard |
+| [0085-maximal-rectangle](https://github.com/barba4ian/2026-spring-sprint/tree/main/0085-maximal-rectangle/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/barba4ian/2026-spring-sprint/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [0042-trapping-rain-water](https://github.com/barba4ian/2026-spring-sprint/tree/main/0042-trapping-rain-water/) | Hard |
+| [0085-maximal-rectangle](https://github.com/barba4ian/2026-spring-sprint/tree/main/0085-maximal-rectangle/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
