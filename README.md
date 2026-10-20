@@ -21,11 +21,13 @@
 | [0042-trapping-rain-water](https://github.com/barba4ian/2026-spring-sprint/tree/main/0042-trapping-rain-water/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/barba4ian/2026-spring-sprint/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [0085-maximal-rectangle](https://github.com/barba4ian/2026-spring-sprint/tree/main/0085-maximal-rectangle/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/barba4ian/2026-spring-sprint/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/barba4ian/2026-spring-sprint/tree/main/0056-merge-intervals/) | Medium |
 | [0049-group-anagrams](https://github.com/barba4ian/2026-spring-sprint/tree/main/0049-group-anagrams/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/barba4ian/2026-spring-sprint/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +123,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/barba4ian/2026-spring-sprint/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0049-group-anagrams](https://github.com/barba4ian/2026-spring-sprint/tree/main/0049-group-anagrams/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/barba4ian/2026-spring-sprint/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/barba4ian/2026-spring-sprint/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,10 +144,12 @@
 | [0023-merge-k-sorted-lists](https://github.com/barba4ian/2026-spring-sprint/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0004-median-of-two-sorted-arrays](https://github.com/barba4ian/2026-spring-sprint/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/barba4ian/2026-spring-sprint/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/barba4ian/2026-spring-sprint/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/barba4ian/2026-spring-sprint/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/barba4ian/2026-spring-sprint/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -204,4 +209,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/barba4ian/2026-spring-sprint/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/barba4ian/2026-spring-sprint/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/barba4ian/2026-spring-sprint/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/barba4ian/2026-spring-sprint/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
