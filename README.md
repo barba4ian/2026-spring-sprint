@@ -22,6 +22,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/barba4ian/2026-spring-sprint/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [0085-maximal-rectangle](https://github.com/barba4ian/2026-spring-sprint/tree/main/0085-maximal-rectangle/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/barba4ian/2026-spring-sprint/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/barba4ian/2026-spring-sprint/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +151,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/barba4ian/2026-spring-sprint/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/barba4ian/2026-spring-sprint/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/barba4ian/2026-spring-sprint/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -185,6 +187,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/barba4ian/2026-spring-sprint/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/barba4ian/2026-spring-sprint/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -221,4 +224,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/barba4ian/2026-spring-sprint/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/barba4ian/2026-spring-sprint/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/barba4ian/2026-spring-sprint/tree/main/0239-sliding-window-maximum/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/barba4ian/2026-spring-sprint/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
