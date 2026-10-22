@@ -44,18 +44,21 @@
 | [0042-trapping-rain-water](https://github.com/barba4ian/2026-spring-sprint/tree/main/0042-trapping-rain-water/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/barba4ian/2026-spring-sprint/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [0085-maximal-rectangle](https://github.com/barba4ian/2026-spring-sprint/tree/main/0085-maximal-rectangle/) | Hard |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/barba4ian/2026-spring-sprint/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/barba4ian/2026-spring-sprint/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/barba4ian/2026-spring-sprint/tree/main/0207-course-schedule/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/barba4ian/2026-spring-sprint/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/barba4ian/2026-spring-sprint/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/barba4ian/2026-spring-sprint/tree/main/0200-number-of-islands/) | Medium |
 | [0994-rotting-oranges](https://github.com/barba4ian/2026-spring-sprint/tree/main/0994-rotting-oranges/) | Medium |
 | [0207-course-schedule](https://github.com/barba4ian/2026-spring-sprint/tree/main/0207-course-schedule/) | Medium |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/barba4ian/2026-spring-sprint/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +91,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/barba4ian/2026-spring-sprint/tree/main/0207-course-schedule/) | Medium |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/barba4ian/2026-spring-sprint/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
